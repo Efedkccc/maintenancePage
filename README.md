@@ -1,4 +1,4 @@
 # maintenancePage
-Simple maintenance page with multi language support. Maybe I can add other languages later.
+Simple maintenance page with multi language support.
 
 CSS designed by ChatGPT
